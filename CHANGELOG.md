@@ -3,6 +3,10 @@
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 versioning follows [Semantic Versioning](https://semver.org/).
 
+## [0.3.0]
+### Added
+* export in `__init__.py`
+
 ## [0.2.0]
 ### Added
 * `append_value_to_file()` 

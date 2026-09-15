@@ -1,6 +1,6 @@
 [project]
 name = "cv_shared"
-version = "0.2.0"
+version = "0.3.0"
 description = "Shared utilities for computer vision projects"
 requires-python = ">=3.11"
 dependencies = ["opencv-python", "numpy"]
