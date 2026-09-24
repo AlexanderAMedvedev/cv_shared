@@ -1,3 +1,6 @@
+# [0.4.1]
+* extended API for `put_on_frame`
+
 # [0.4.0]
 * added `put_on_frame.py`
 
